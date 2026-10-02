@@ -412,7 +412,7 @@
     },
     {
       "payloadId": "pa3q-S938BXXU1AYA1",
-      "displayName": "Galaxy S25 | Kernel 6.6.30",
+      "displayName": "Galaxy S25 (SM-S938B) | Kernel 6.6.30",
       "models": [
         "SM-S938B"
       ],
@@ -425,7 +425,7 @@
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/MerciaSelene/Root-My-Galaxy-Payloads/main/kernelsu/ksud-pa3q-S938BXXU1AYA1-kdp",
-        "size": 4883856
+        "size": 6303040
       }
     }
   ]
